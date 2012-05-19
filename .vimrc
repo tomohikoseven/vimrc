@@ -11,3 +11,4 @@ set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 set showmatch
 set whichwrap=b,s,<,>,[,]
+inoremap { {}<LEFT>
